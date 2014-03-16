@@ -1,0 +1,3 @@
+_type , _id , name , type , latitude , longitude
+"Position" , 410978 , "Potsdam, USA" , "location" , 44.66978 , -74.98131
+"Position" , 377078 , "Potsdam, Deutschland" , "location" , 52.39886 , 13.06566
